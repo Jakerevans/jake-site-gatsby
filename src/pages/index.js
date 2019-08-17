@@ -56,7 +56,7 @@ class IndexPage extends React.Component {
 
         <style jsx>{`
           hr {
-            margin: 0;
+            margin: 1;
             border: 0;
           }
         `}</style>
